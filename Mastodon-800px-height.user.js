@@ -12,6 +12,6 @@
 (function() {
     'use strict';
 
-GM_addStyle ('.media-gallery { height: auto !important; max-height: 800px !important;}');
-})();
+GM_addStyle ('.media-gallery { height: auto !important; max-height: 800px !important; min-height: 110px !important;}');
 
+})();
